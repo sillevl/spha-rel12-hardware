@@ -9221,7 +9221,7 @@
 			(uuid "54ca81fa-1311-45a3-8c17-91c18b05ca51")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -9232,7 +9232,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -9939,7 +9939,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -10971,7 +10971,7 @@
 			(uuid "dd49bb41-332e-4696-833c-d232e0448b63")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -10982,7 +10982,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -11685,7 +11685,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -12540,7 +12540,7 @@
 			(uuid "4442690d-9b69-4174-8cf3-6558497a4ad5")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -12551,7 +12551,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -13318,7 +13318,7 @@
 			(uuid "94a13df2-3769-436a-b0de-767acbdcaaeb")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -13329,7 +13329,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -13818,7 +13818,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -14196,7 +14196,7 @@
 			(uuid "9499293a-cd55-48ec-ac81-089d6420ded7")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -14207,7 +14207,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -14585,7 +14585,7 @@
 			(uuid "ca7b197f-7808-47de-a461-95f69fe0e8ed")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -14596,7 +14596,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -14966,7 +14966,7 @@
 			(uuid "7d5e2b96-7633-41da-b9aa-d521b580b95c")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -14977,7 +14977,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -15355,7 +15355,7 @@
 			(uuid "23241814-1e6d-4a09-8a84-15a5d30b996e")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -15366,7 +15366,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -15744,7 +15744,7 @@
 			(uuid "026d934d-d564-4c37-9113-57bb727fc2e9")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -15755,7 +15755,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -16244,7 +16244,7 @@
 				(xyz -90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -17295,7 +17295,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/CDRH127_470M.step"
+		(model "${KIPRJMOD}/models/CDRH127_470M.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17982,7 +17982,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -18557,7 +18557,7 @@
 			(uuid "5f8f5622-0fae-4eeb-bf3b-6112a55f318d")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -18568,7 +18568,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -19353,7 +19353,7 @@
 			(uuid "210b172c-b965-4a60-99f4-39f3cf0b0a90")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -19364,7 +19364,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -19854,7 +19854,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -21666,7 +21666,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -22044,7 +22044,7 @@
 			(uuid "2dc8128f-408c-4d56-91b5-3b4d4c6dd33f")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -22055,7 +22055,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -23466,7 +23466,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -23955,7 +23955,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -24433,7 +24433,7 @@
 			(uuid "9c23c0af-4f0b-4ac0-aacb-3b9571b51d3c")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -24444,7 +24444,7 @@
 				(xyz -90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -24923,7 +24923,7 @@
 			(uuid "32ad7fbe-e026-4d57-9f6b-f4af30c894d9")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -24934,7 +24934,7 @@
 				(xyz -90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -26475,7 +26475,7 @@
 				(xyz -90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
